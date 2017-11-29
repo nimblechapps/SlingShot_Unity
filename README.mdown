@@ -1,0 +1,33 @@
+# How to Implement Slingshot In Unity
+
+#### Introduction
+
+A slingshot is normally a small hand-powered projectile weapon. The classic form consists of a Y-shaped frame held in the off hand, with two natural-rubber strips attached to the uprights. In this tutorial, we have described how to make a slingshot in Unity. If you need a step by step explanation of the topic, you can check our article here: [How to Implement Slingshot In Unity](https://insights.nimblechapps.com/unity/how-to-implement-slingshot-in-unity)
+
+#### Prerequisites:
+
+1. Unity 5 or higher.
+2. In this tutorial, we will use Unity 5.6.3.
+
+#### This tutorial covers following topics:
+
+1. Slingshot setup
+2. Shoot ball
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Slingshot-Output.png)](https://insights.nimblechapps.com/unity/how-to-implement-slingshot-in-unity)
+
+This tutorial has been presented by Nimblechapps - The coolest [Unity Game Development Company](https://www.nimblechapps.com/unity-game-development-company). Checkout our [Unity game development portfolio](https://www.nimblechapps.com/portfolio/game-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [Implementing Confetti Coming out of an object In Unity](https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity)
+ 2. [How to Integrate Photon Pun Multiplayer Game Engine For Unity](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
